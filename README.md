@@ -39,9 +39,12 @@ The entire project works perfectly fine. Live detection gives good frame rates d
 
 ## Screenshots
 ![Angry](https://github.com/AdityaSaxena1311/Emotion-Based-Music-Recommendation-System/assets/80876781/0ebefaf0-c4ec-42e7-8842-27f6bc781b0d)
+
 ![Fearful](https://github.com/AdityaSaxena1311/Emotion-Based-Music-Recommendation-System/assets/80876781/43eca7ef-4a28-4f1a-ba84-2aebaa84e7b1)
-![Happy](https://github.com/AdityaSaxena1311/Emotion-Based-Music-Recommendation-System/assets/80876781/ec1dcb4
+
+![Happy](https://github.com/AdityaSaxena1311/Emotion-Based-Music-Recommendation-System/assets/80876781/ec1dcb43-16f7-4437-b415-f66ff85f63ea)
+
 ![Sad](https://github.com/AdityaSaxena1311/Emotion-Based-Music-Recommendation-System/assets/80876781/570aee0d-0dfe-48ec-a412-3d48aaa4fc27)
-3-16f7-4437-b415-f66ff85f63ea)
+
 ![Surprised](https://github.com/AdityaSaxena1311/Emotion-Based-Music-Recommendation-System/assets/80876781/ad13de79-5f2c-4bf0-984c-b221e3491232)
 
